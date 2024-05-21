@@ -198,7 +198,7 @@
     },
 
     "gateway_conf": {
-        "gateway_ID": "AA555A0000240409",
+        "gateway_ID": "3834383425004600",
         /* change with default server address/ports, or overwrite in local_conf.json */
         "server_address": "localhost",
         "serv_port_up": 1680,
